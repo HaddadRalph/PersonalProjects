@@ -1,0 +1,32 @@
+h2{
+    color:#2079c7;
+    font-family: sans-serif;
+    font-size: 	12px;
+}
+h3{
+    font-weight: lighter;
+    font-size: 14.667px;
+}
+h4{
+   color: #666666;
+   line-height: 0; 
+   font-weight: lighter;
+   font-family: sans-serif;
+   font-size: 10.667px;
+}
+.info{
+    font-family: sans-serif;
+    font-size: 	12px;
+}
+
+.company{
+    font-weight: bold;
+}
+.title{
+    font-style: italic;
+}
+
+li{
+    color: #666666;
+    font-size: 	12px;
+}
