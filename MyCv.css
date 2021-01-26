@@ -1,36 +1,52 @@
+
 h1{
     font-size: 48px;
+    font-family: Merriweather;
 }
 h2{
     color:#2079c7;
-    font-family: sans-serif;
+    font-family: Open Sans;
     font-size: 	12px;
 }
 h3{
     font-weight: lighter;
     font-size: 14.667px;
+    font-family: Merriweather;
 }
 h4{
    color: #666666;
    line-height: 0; 
    font-weight: lighter;
-   font-family: sans-serif;
+   font-family: Open Sans;
    font-size: 10.667px;
+   
 }
 .info{
-    font-family: sans-serif;
+    font-family: Open Sans;
     font-size: 	12px;
     font-weight: bold;
 }
 
 .company{
     font-weight: bold;
+    font-family: Merriweather;
 }
 .title{
     font-style: italic;
+    font-family: Merriweather;
 }
 
 li{
     color: #666666;
     font-size: 	12px;
+    font-family: Merriweather;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.info a:hover{
+    text-decoration: underline;
 }
